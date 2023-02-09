@@ -31,11 +31,11 @@
 }
 
 .header__title{
- position: relative; 
- align-items: center; 
- margin: 0; 
- max-width: 730px; 
- padding-left:64px ;
+ position: relative;
+ align-items: center;
+ margin: 0;
+ max-width: 730px;
+ padding-left:64px;
  z-index: 2;
  font-size: 102px;
  line-height: 96px;
@@ -43,7 +43,7 @@
 }
 
 .header__subtitle{
- max-width: 338px; 
+ max-width: 338px;
  margin: 0;
  position: absolute;
  left: 64px;
@@ -111,7 +111,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  gap: 30px; 
+  gap: 30px;
 }
 
 .two-columns__span-accent{
