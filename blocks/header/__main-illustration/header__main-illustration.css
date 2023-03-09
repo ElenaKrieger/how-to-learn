@@ -5,4 +5,5 @@
     height: 608px;
     z-index: 1;
     width: 765px;
+    object-fit: cover;
    }

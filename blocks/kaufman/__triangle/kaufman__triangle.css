@@ -3,7 +3,7 @@
     position: absolute;
     top: 0;
     right: -210px;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     height: 877px;
