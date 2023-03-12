@@ -1,4 +1,4 @@
-.table{
+.table {
     margin: 0 auto;
     padding: 0;
     list-style: none;
@@ -7,4 +7,4 @@
     justify-content: space-between;
     flex-direction: row;
     width: 1100px;
-   }
+}

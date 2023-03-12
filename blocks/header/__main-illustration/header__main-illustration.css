@@ -1,4 +1,4 @@
-.header__main-illustration{
+.header__main-illustration {
     position: absolute;
     right: 0;
     bottom: 0;
@@ -7,4 +7,4 @@
     width: 765px;
     object-fit: contain;
     object-position: right bottom;
-   }
+}
